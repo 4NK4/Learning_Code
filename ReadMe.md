@@ -1,17 +1,14 @@
-[toc]
 
-
-2019-12-01
-# 1.1一是打发打发
+# 1.1md文档标准
     afdsaf
     sdfadsf
     sdfsdf
     asdf
-## 1.2打法师打嘎嘎
+## 1.2md文档标准
     asdfdsaf
     adfasf
     adsf
-### 1.3阿斯弗大师傅士大夫
+### 1.3md文档标准
     asdfaf
     sadf
 
@@ -22,8 +19,6 @@
     1. abcde
 
 > 引用内容、说明内容。在语句前面加一个
-
-![图片](img/MVC与MVVM.png)
 
 ~~删除~~
 **md**
